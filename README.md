@@ -3,9 +3,9 @@
 
 <p align="center"><img src=cityscapes.jpeg /></a></p>
 
-- 🔭 I’m currently working on automatic label generation for large-scale automated driving
-- 🌱 I’m currently learning how to build a product with a team of engineers
-- :dizzy: I recently defended my Ph.D. Thesis on "LiDAR Domain Adaptation - Automotive 3D Scene Understanding"
+- 🔭 I’m working on camera-based perception for autonomous driving
+- 🌱 I’m building a series product with a team of engineers
+- :dizzy: In end of 2022, I defended my Ph.D. Thesis on "LiDAR Domain Adaptation - Automotive 3D Scene Understanding"
 - 💬 Ask me about
   - Perception / Scene Understanding
   - LiDAR
