@@ -5,10 +5,10 @@
 
 - 🔭 I’m working on camera-based perception for autonomous driving
 - 🌱 I’m building a series product with a team of engineers
+- 📚 I teach a Computer Vision and Image Processing class at the University of Stuttgart
 - :dizzy: In end of 2022, I defended my Ph.D. Thesis on "LiDAR Domain Adaptation - Automotive 3D Scene Understanding"
 - 💬 Ask me about
   - Perception / Scene Understanding
-  - LiDAR
   - Machine Learning / Deep Learning
   - Autonomous Driving
   - 3D Data Generation / Generative Models
